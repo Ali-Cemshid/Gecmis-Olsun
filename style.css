@@ -1,0 +1,35 @@
+body {
+    color: rgba(252,130,15,0.95);
+    font-family: 'Raleway', sans-serif;
+    font-size: 35px;
+    background-image: linear-gradient(to top, rgba(0, 0, 0, 0.850), rgba(0, 0, 0, 0.850)), url('deprem.jpg');
+}
+
+.inbl{ 
+    display: inline;
+}
+
+#sz {
+    width: 29%;
+    margin-top: 6rem;
+}
+
+
+#all {
+    display: flex;
+    margin: auto;
+    text-align: center;
+}
+
+#size {
+    font-size: 28px;
+    margin-top: 25px;
+}
+
+#usernameadd {
+    font-weight: 900;
+}
+
+#acc {
+    font-weight: 600;
+}
